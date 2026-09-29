@@ -34,13 +34,13 @@ The objectives of this lab were to:
 
 I generated an OpenPGP public/private key pair for each Gmail account using GPG Keychain.
 
-![OpenPGP Key Generation](SS1.pdf)
+[View Screenshot](SS1.pdf)
 
 ### 2. Configure Thunderbird
 
 Both Gmail accounts were added to Mozilla Thunderbird using IMAP. I verified that both accounts could send and receive normal email messages.
 
-![Thunderbird Setup](SS2.pdf)
+[View Screenshot](SS2.pdf)
 
 ## Step 3 – Import OpenPGP Keys into Thunderbird
 
